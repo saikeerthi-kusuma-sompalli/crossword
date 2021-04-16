@@ -20,6 +20,7 @@
 ### Input
 
    #### Each puzzle solution in the input starts with a line containing two integers r and c, Where r represents the number of rows in the puzzle and c represents the number of columns in the puzzle. The r rows of input which follow each contain c characters (excluding the end-of-line) which describe the solutio. Each of those c characters is an alphabetic  character which is a part of the word or the character * which indicates black square.
+   
 ### Output
 
    #### Contains the list of cross words followed by the list of down words  Words in the each list must be a output one-per-line in increasing order of the number of their corresponding definitions.
