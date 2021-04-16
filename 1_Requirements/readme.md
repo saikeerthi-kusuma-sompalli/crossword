@@ -16,3 +16,12 @@
    #### An "Down" word for a definition is written on a sequence of white squares in  a column startinng on a numbered square that doesn't follow another white square in the same column. The sequence of the white squares for that word goes down the column. Every white square in a correctly solved puzzle contains a letter.
    
    #### We must write a program that takes several solved crossword puzzles as input and outputs the lists of across and down words which constitute the solutions. 
+   
+### Input
+
+   #### Each puzzle solution in the input starts with a line containing two integers r and c, Where r represents the number of rows in the puzzle and c represents the number of columns in the puzzle. The r rows of input which follow each contain c characters (excluding the end-of-line) which describe the solutio. Each of those c characters is an alphabetic  character which is a part of the word or the character * which indicates black square.
+### Output
+
+   #### Contains the list of cross words followed by the list of down words  Words in the each list must be a output one-per-line in increasing order of the number of their corresponding definitions.
+   #### The heading for the list of across words is "Across". The heading for the list of down words is "Down". In the case where the lists are empty(all the squares in the gris are black), The Across and the Down headings should still appear. 
+
