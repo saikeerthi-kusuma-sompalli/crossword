@@ -29,4 +29,15 @@
 ## SWOT Analysis 
 ![imagessss](https://user-images.githubusercontent.com/39005873/115014291-c37b7900-9ecf-11eb-9583-bdd2b7d80492.png)
 
+## 4W's and 1'H:
+
+### Who: 
+   - Age is not a parameter, can one can play this game
+### What:
+   -
+### When:
+   - It was developed long ago just to test or increase the words knowledge in children
+### Where:
+   - It can be used in schools, to know different kinds of words or in magazines (at playing section)
+
 
