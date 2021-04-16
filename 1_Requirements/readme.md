@@ -4,7 +4,6 @@
      
   ####  The definitions correspond to the rectangular grid by means of sequential integers on "eligible" white squares. White squares with black squares immediately to the left or above them "eligible". white squares with no square either immediately to the left or above are also "eligible". No other squares are numbered. All the squares on the first row are numbered.
      
- ####   The numbering starts with 1 and continues consecutively across white squares of the fisrt row, then across the eligible white squares of the second row, then across the eligible white squares of the third row and so on across all of the rows of puzzle. The picture below illustrates a rectangular crossword puzzle grid with appropriate numbering.
- ![image](C:\Users\dell\Downloads\image.png)
+ ####   The numbering starts with 1 and continues consecutively across white squares of the fisrt row, then across the eligible white squares of the second row, then across the eligible white squares of the third row and so on across all of the rows of puzzle. The picture below illustrates a rectangular crossword puzzle grid with appropriate number!!!   ![image](C:\Users\dell\Downloads\image(1).png)
 
 
