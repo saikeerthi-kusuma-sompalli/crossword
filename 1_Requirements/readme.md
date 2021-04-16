@@ -26,3 +26,7 @@
    #### Contains the list of cross words followed by the list of down words  Words in the each list must be a output one-per-line in increasing order of the number of their corresponding definitions.
    #### The heading for the list of across words is "Across". The heading for the list of down words is "Down". In the case where the lists are empty(all the squares in the gris are black), The Across and the Down headings should still appear. 
 
+## SWOT Analysis 
+![imagessss](https://user-images.githubusercontent.com/39005873/115014291-c37b7900-9ecf-11eb-9583-bdd2b7d80492.png)
+
+
