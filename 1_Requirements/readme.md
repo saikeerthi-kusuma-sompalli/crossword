@@ -8,3 +8,9 @@
  
  
  ![crossword](https://user-images.githubusercontent.com/39005873/114999951-ef8efe00-9ebf-11eb-875d-45d3db56a7ca.png)
+
+
+## Definition
+   #### An "Across" word for a definition is written on a sequence of white squares in  a row startinng on a numbered square that doesn't follow another white square in the same row. The sequence of the white squares for that word goes across the row of the numbered square, ending immediately before the next black square in the row or in the rightmost square of the row.
+   
+    #### An "Down" word for a definition is written on a sequence of white squares in  a row startinng on a numbered square that doesn't follow another white square in the same row. The sequence of the white squares for that word goes across the row of the numbered square, ending immediately before the next black square in the row or in the rightmost square of the row.
