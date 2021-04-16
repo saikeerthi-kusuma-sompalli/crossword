@@ -13,4 +13,6 @@
 ## Definition
    #### An "Across" word for a definition is written on a sequence of white squares in  a row startinng on a numbered square that doesn't follow another white square in the same row. The sequence of the white squares for that word goes across the row of the numbered square, ending immediately before the next black square in the row or in the rightmost square of the row.
    
-    #### An "Down" word for a definition is written on a sequence of white squares in  a row startinng on a numbered square that doesn't follow another white square in the same row. The sequence of the white squares for that word goes across the row of the numbered square, ending immediately before the next black square in the row or in the rightmost square of the row.
+   #### An "Down" word for a definition is written on a sequence of white squares in  a column startinng on a numbered square that doesn't follow another white square in the same column. The sequence of the white squares for that word goes down the column. Every white square in a correctly solved puzzle contains a letter.
+   
+   #### We must write a program that takes several solved crossword puzzles as input and outputs the lists of across and down words which constitute the solutions. 
