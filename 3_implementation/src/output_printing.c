@@ -1,9 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 #include "../inc/output_printing.h"
 
-
-
-void output_hor(int n,int m){
+void hor(int n,int m,char a[][m]){
     printf("###Across###\n");
     for(int i = 0;i<n;i++){
         if(a[i][0] !='*' && i !=0){
@@ -16,7 +14,7 @@ void output_hor(int n,int m){
                     printf("%d.",b[i][j]);
                 }
                 f++;
-                printf("%c",a[i][j]);
+                printf("%C",a[i][j]);
             }
             else{
                 f=0;
@@ -31,7 +29,7 @@ void output_hor(int n,int m){
 
 }
 
-void output_ver(int n,int m){
+void ver(int n,int m,char a[][m]){
     printf("###Down###\n");
     for(int i = 0;i<n;i++){
         for(int j = 0;j<m;j++){
