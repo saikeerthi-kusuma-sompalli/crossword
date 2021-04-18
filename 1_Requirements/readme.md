@@ -39,5 +39,12 @@
    - It was developed long ago just to test or increase the words knowledge in children
 ### Where:
    - It can be used in schools, to know different kinds of words or in magazines (at playing section)
+### How:
+   - Based on Black squares we give numbering to the squares. And we print the words from top to bottom and left to right based on black squares.
+#### Detail Requirements:
+### High level requirements:
+   | ID | Description | Status(Implemeted/Future)|
+   | -- | ----------- |       -----              |
+
 
 
