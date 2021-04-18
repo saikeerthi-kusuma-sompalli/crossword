@@ -1,9 +1,8 @@
 #include<stdio.h>
 #include "inc/output_printing.h"
 
-
-//void output_matrix_hor(int n,int m);
-//void output_matrix_ver(int n, int m);
+//char a[6][6];
+//int b[6][6];
 
 
 int main(){
@@ -34,13 +33,9 @@ int main(){
             }
         }
     }
+    // I am executing two codes main_code.c and output_printing.c at the same time (gcc main_code.c output_printing.c)
     //function to print across words
-    output_hor(n,m);
+    hor(n,m,a);
     // function to print down words
-    output_ver(n,m);
+    ver(n,m,a);
 }
-
-
-
-
-
