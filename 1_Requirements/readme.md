@@ -32,15 +32,15 @@
 ## 4W's and 1'H:
 
 ### Who: 
-   - Age is not a parameter, can one can play this game
-### What:
-   -
+   - This tool will be useful for the public in heavy traffic and the police to control them.
+### What
+   - Based on no of vehicles on the road, the algorithm decides which traffic light to on first.
 ### When:
-   - It was developed long ago just to test or increase the words knowledge in children
+   - When there is heavy traffic only in the one path when compared to other paths then the traffic light will be put on for the path which is having heavy traffic.
 ### Where:
-   - It can be used in schools, to know different kinds of words or in magazines (at playing section)
+   - In smart Cities, to enchance the traffic signal performance.
 ### How:
-   - Based on Black squares we give numbering to the squares. And we print the words from top to bottom and left to right based on black squares.
+   - we will take images from the camera based on time intervals and store them in the database. We extract these images from the database and calculate the no of vehicles on the road and based on this count the algorithm will decide what traffic light to on at first.
 #### Detail Requirements:
 ### High level requirements:
    | ID | Description | Status(Implemeted/Future)|
