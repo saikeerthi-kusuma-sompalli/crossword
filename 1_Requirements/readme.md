@@ -54,10 +54,10 @@
    | ID | Description | HLR_ID | Status(Implemeted/Future) |
    | -- | ----------- |       -----                        |
    | LR_01| capture an image from camera based on time intervals | HR_01 |        |
-   | LR_01| imort data from Database | HR_02 |        |
-   | LR_01| Extract data from database | HR_01 |        |
-   | LR_01| Based on count the traffic light will be put on or off (1) if count = 0 then traffic light will be in off condition still it count increases in that path | HR_01 |        |
-   | LR_01| Ability to read an image from camera | HR_01 |        |
+   | LR_02| imort data from Database | HR_02 |        |
+   | LR_03| Extract data from database | HR_01 |        |
+   | LR_04| Based on count the traffic light will be put on or off (1) if count = 0 then traffic light will be in off condition still it count increases in that path | HR_01 |        |
+   | LR_05| Ability to read an image from camera | HR_01 |        |
    
    
    
