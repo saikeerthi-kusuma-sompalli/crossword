@@ -52,7 +52,7 @@
    
 ### Low level requirements: 
    | ID | Description | HLR_ID | Status(Implemeted/Future) |
-   | -- | ----------- |       -----                        |
+   | -- | ----------- | ------ |           -----           |
    | LR_01| capture an image from camera based on time intervals | HR_01 |        |
    | LR_02| imort data from Database | HR_02 |        |
    | LR_03| Extract data from database | HR_01 |        |
