@@ -45,6 +45,7 @@
 ### High level requirements:
    | ID | Description | Status(Implemeted/Future)|
    | -- | ----------- |       -----              |
-
-
+   | HR_01| Ability to read an image from camera |      |
+   | HR_02| Ability to import and extract from Database |      |
+   
 
