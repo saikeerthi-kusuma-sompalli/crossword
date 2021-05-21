@@ -62,7 +62,7 @@
    | LR_04| Count the no of vechiles based on object detection | HR_04 |       |
    | LR_05| Checking if they is any Emergency vehicle | HR_04 |       |
    
-   | LR_06| Based on count the traffic light will be put on or off. If count = 0 then traffic light will be in off condition still it count increases in that path | HR_05 |        |
+   | LR_06| Based on count the traffic light will be put on or off. If count = 0 then traffic light will be in off condition still it count increases in that path | HR_05 |       
    | LR_07| If there is any Emergency the traffic light will be put on for that path | HR_05 |        |
    
    
