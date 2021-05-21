@@ -58,7 +58,7 @@
    
    | LR_01| capture an image from camera based on time intervals | HR_02 |        |
    | LR_02| imort data from Database | HR_03 |        |
-   | LR_03| Extract data from database | HR_03 |
+   | LR_03| Extract data from database | HR_03 |      |
    | LR_04| Count the no of vechiles based on object detection | HR_04 ||
    | LR_05| Checking if they is any Emergency vehicle | HR_04 ||
    
