@@ -45,19 +45,25 @@
 ### High level requirements:
    | ID | Description | Status(Implemeted/Future) |
    | -- | ----------- |       -----              |
-   | HR_01| Ability to read an image from camera |      |
-   | HR_02| Ability to import and extract from Database |      |
-   | HR_03| Ability to Calculate the no of vechiles from the image |      |
-   | HR_04| Ability to on the traffic lights based on density of vehicles |      |
+   | HR_01| Store the data in the database |      |
+   | HR_02| Ability to read an image from camera |      |
+   | HR_03| Ability to import and extract from Database |      |
+   | HR_04| Ability to Calculate the no of vechiles from the image |      |
+   | HR_05| Ability to on the traffic lights based on density of vehicles |      |
+   
    
 ### Low level requirements: 
    | ID | Description | HLR_ID | Status(Implemeted/Future) |
    | -- | ----------- | ------ |           -----           |
-   | LR_01| capture an image from camera based on time intervals | HR_01 |        |
-   | LR_02| imort data from Database | HR_02 |        |
-   | LR_03| Extract data from database | HR_01 |        |
-   | LR_04| Based on count the traffic light will be put on or off (1) if count = 0 then traffic light will be in off condition still it count increases in that path | HR_01 |        |
-   | LR_05| Ability to read an image from camera | HR_01 |        |
+   
+   | LR_01| capture an image from camera based on time intervals | HR_02 |        |
+   | LR_02| imort data from Database | HR_03 |        |
+   | LR_03| Extract data from database | HR_03 |
+   | LR_04| Count the no of vechiles based on object detection | HR_04 ||
+   | LR_05| Checking if they is any Emergency vehicle | HR_04 ||
+   
+   | LR_06| Based on count the traffic light will be put on or off. If count = 0 then traffic light will be in off condition still it count increases in that path | HR_05 |        |
+   | LR_07| If there is any Emergency the traffic light will be put on for that path | HR_05 |        |
    
    
    
