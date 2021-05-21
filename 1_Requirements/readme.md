@@ -28,6 +28,7 @@
 
 ## SWOT Analysis 
 ![imagessss](https://user-images.githubusercontent.com/39005873/115014291-c37b7900-9ecf-11eb-9583-bdd2b7d80492.png)
+![Opportunities-0 (1)](https://user-images.githubusercontent.com/39005873/119104761-41d0bb00-ba3a-11eb-84ce-2fddfe0d9d24.png)
 
 ## 4W's and 1'H:
 
