@@ -8,6 +8,8 @@
  
  
  ![crossword](https://user-images.githubusercontent.com/39005873/114999951-ef8efe00-9ebf-11eb-875d-45d3db56a7ca.png)
+ ![swot1111](https://user-images.githubusercontent.com/39005873/119105674-2fa34c80-ba3b-11eb-8a28-46998d015806.png)
+
 
 
 ## Definition
