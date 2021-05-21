@@ -43,9 +43,23 @@
    - we will take images from the camera based on time intervals and store them in the database. We extract these images from the database and calculate the no of vehicles on the road and based on this count the algorithm will decide what traffic light to on at first.
 #### Detail Requirements:
 ### High level requirements:
-   | ID | Description | Status(Implemeted/Future)|
+   | ID | Description | Status(Implemeted/Future) |
    | -- | ----------- |       -----              |
    | HR_01| Ability to read an image from camera |      |
    | HR_02| Ability to import and extract from Database |      |
+   | HR_03| Ability to Calculate the no of vechiles from the image |      |
+   | HR_04| Ability to on the traffic lights based on density of vehicles |      |
+   
+### Low level requirements: 
+   | ID | Description | HLR_ID | Status(Implemeted/Future) |
+   | -- | ----------- |       -----                        |
+   | LR_01| capture an image from camera based on time intervals | HR_01 |        |
+   | LR_01| imort data from Database | HR_02 |        |
+   | LR_01| Extract data from database | HR_01 |        |
+   | LR_01| Based on count the traffic light will be put on or off (1) if count = 0 then traffic light will be in off condition still it count increases in that path | HR_01 |        |
+   | LR_01| Ability to read an image from camera | HR_01 |        |
+   
+   
+   
    
 
