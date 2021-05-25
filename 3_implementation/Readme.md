@@ -6,9 +6,10 @@
 ### As we are using pre-trained deep Learning Architectures based on Tensorflow we need to download some files like config,weights etc. We can download them from open-cv official github link.
 [open-cv official github link](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API)
 #### [In this link we can get many Deep-Learning Architectures that are pre-trained based on Tensorflow]
-  -- Go to the SSD-MobileNetv3 download weights and download config
-  -- include config  folder ssd_mobilenet_v3_large_coco_2020_01_14.pbtx in current directory
-  -- include frozen_inference_graph.pb(This is in weights folder) in current directory
+
+-- Go to the SSD-MobileNetv3 download weights and download config
+-- include config  folder ssd_mobilenet_v3_large_coco_2020_01_14.pbtx in current directory
+-- include frozen_inference_graph.pb(This is in weights folder) in current directory
 
 ## Execution steps:
   ## Execute main.py file
