@@ -15,4 +15,7 @@
   - output: Uploaded images Successfully into the bucket
   ## 4.receiveResponses.py
   
+  ## 5.countVehicles.py
+  - output: shows the colour of the traffic light in each path like "green","red" or "Yellow" based on the count of vehicles
+  
   
