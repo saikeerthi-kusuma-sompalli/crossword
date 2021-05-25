@@ -3,6 +3,8 @@
 ## Packages to be installed
    - Open-cv 
    - time 
+### As we are using pre-trained deep Learning Architectures based on Tensorflow we need to download some files like config,weights etc. We can download them from open-cv official github link.
+[open-cv official github link](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API)
 ## Execution steps:
   ## Execute main.py file
   - [we created a file in main.py which contains all the files, So they execute one by one without user interface]
